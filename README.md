@@ -13,8 +13,8 @@
 ### My Repos (with tutorials)
 - [R Package for Xenium Spatial Analysis](https://github.com/MargoKapustina/XeniumSpatialAnalysis)  
 ### My Collaborations at the Cembrowski Lab
-- [R-based Utilities for HiPlex mFISH (RUHi)](https://github.com/cembrowskilab/RUHi)  
-- [RUHi Step-by-Step Tutorials](https://kaitsull.github.io/VideoTutorials/09_geographic-analysis.html)  
+- [R-based Utilities for HiPlex Multiplex Fluorescence in situ Hybridization (RUHi)](https://github.com/cembrowskilab/RUHi)  
+- [Multiplex Fluorescence in situ Hybridization Analysis via _RUHi:_ Step-by-Step Tutorials](https://kaitsull.github.io/VideoTutorials/09_geographic-analysis.html)  
 
 ### Currently Learning & Creating...
 🌱  Automated registration and streamlined analysis of multimodal single-cell spatial datasets.
