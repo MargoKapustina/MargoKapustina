@@ -7,7 +7,7 @@
 ### Interests
 🧬  How leveraging spatially patterned gene expression in the brain can reveal heterogenous higher-order cellular properties across neuronal populations.    
 🛠️  I am also interested in developing automated discovery-based cell-type-specific analyses across high-throughput omics technologies. I enjoy building tools that streamline the analysis of big omics data.  
-🌐  I support transparant research and open science initiatives, so that scientific discoveries can be accesible and reproducible within the scientific community.   
+🌐  I support transparent research and open science initiatives, so that scientific discoveries can be accesible and reproducible within the scientific community.   
 
 
 ### My Repos (with tutorials)
